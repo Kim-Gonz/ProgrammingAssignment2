@@ -34,3 +34,4 @@ cacheSolve <- function(x, ...) {
   m
 }
 
+#Thanks to stackoverflow users who's contributions helped me to put this file together
